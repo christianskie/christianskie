@@ -5,11 +5,14 @@ New Era University<br>
 2024-Present
 
 <h2>Certifications📝</h2> <br>
-
+<a href="https://courses.cognitiveclass.ai/certificates/741df46a5645454686992347f91b4bcb">SQL and Relational Databases 101</a>
 
 
 
 <h2>Skill Sets💻</h2> <br>
+Database IBM 
+HTML 
+
 
 
 
