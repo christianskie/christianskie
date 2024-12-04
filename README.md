@@ -8,8 +8,8 @@ New Era University<br>
 2024
 
 <h2>Certifications📝</h2> <br>
-<a href="https://courses.cognitiveclass.ai/certificates/741df46a5645454686992347f91b4bcb">SQL and Relational Databases 101</a>
-<a href="about:blank">OCI Foundatins Associate</a>
+<a href="https://courses.cognitiveclass.ai/certificates/741df46a5645454686992347f91b4bcb">SQL and Relational Databases 101</a> <br>
+<a href="about:https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5416116&trackId=OCI2024FNDCFA&key=896ea949f0bc3a634fd358c64fb1ef0ce73cfba1">OCI Foundatins Associate</a>
 
 
 <h2>Skill Sets💻</h2> <br>
