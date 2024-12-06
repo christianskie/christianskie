@@ -9,7 +9,7 @@ New Era University<br>
 
 <h2>Certifications📝</h2> <br>
 <a href="https://courses.cognitiveclass.ai/certificates/741df46a5645454686992347f91b4bcb">SQL and Relational Databases 101</a> <br>
-<a href="https://drive.google.com/file/d/1OrPM4hB7ZAX4JCoRWO0uA90kmmAmaa7s/view?usp=drive_link">OCI Foundation Associate</a> <br>
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=68577F18A9C46EC164193AC7EAC706D9C65BD019B9CF8453FE240EC6D36EEC9B">OCI Foundation Associate</a> <br>
 
 
 
