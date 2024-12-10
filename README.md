@@ -9,8 +9,8 @@ New Era University<br>
 
 <h2>Certifications📝</h2> <br>
 <a href="https://courses.cognitiveclass.ai/certificates/741df46a5645454686992347f91b4bcb">SQL and Relational Databases 101</a> <br>
-<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=68577F18A9C46EC164193AC7EAC706D9C65BD019B9CF8453FE240EC6D36EEC9B">OCI Foundation Associate</a> <br>
-<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=68577F18A9C46EC164193AC7EAC706D9A1D110DBE6BFCCF74BF1C27C4A3BB72E">Oracle Cloud Infrastructure 2024 Data Certified</a> <br>
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=68577F18A9C46EC164193AC7EAC706D9C65BD019B9CF8453FE240EC6D36EEC9B">Oracle Cloud Infrastructure 2024 Certified Foundations Associate</a> <br>
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=68577F18A9C46EC164193AC7EAC706D9A1D110DBE6BFCCF74BF1C27C4A3BB72E">Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate</a> <br>
 
 
 
